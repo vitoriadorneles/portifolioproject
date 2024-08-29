@@ -1,5 +1,5 @@
-@import 'portifolioproject/css/globals.css';
-@import 'portifolioproject/css/variables.css';
+@import 'css/components/about.css'
+@import 'portifolioproject/css/components/variables.css';
 
 @import 'portifolioproject/css/components/about.css';
 @import 'portifolioproject/css/components/contact.css';
