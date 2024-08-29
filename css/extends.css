@@ -1,10 +1,10 @@
-@import 'css/components/about.css'
-@import 'portifolioproject/css/components/variables.css';
+@import '/css/globals.css';
+@import '/portifolioproject/css/variables.css';
 
-@import 'portifolioproject/css/components/about.css';
-@import 'portifolioproject/css/components/contact.css';
-@import 'portifolioproject/css/components/education.css';
-@import 'portifolioproject/css/components/header.css';
-@import 'portifolioproject/css/omponents/footer.css';
+@import '/portifolioproject/css/components/components/about.css';
+@import '/portifolioproject/css/components/contact.css';
+@import '/portifolioproject/css/components/education.css';
+@import '/portifolioproject/css/components/header.css';
+@import '/portifolioproject/css/components/footer.css';
 @import 'portifolioproject/css/components/navbar.css';
-@import 'portifolioproject/css/components/projects.css';
+@import '/portifolioproject/css/components/projects.css';
